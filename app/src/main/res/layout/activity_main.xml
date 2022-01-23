@@ -49,7 +49,7 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:layout_below="@+id/hero"
-        android:background="#ABCEDD"
+        android:background="#82C7FD"
         android:orientation="horizontal"
         android:weightSum="3"
 
@@ -63,8 +63,8 @@
             android:padding="10dp">
 
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_gravity="center"
                 android:src="@drawable/bus" />
 
@@ -88,8 +88,8 @@
             android:padding="10dp">
 
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_gravity="center"
                 android:src="@drawable/hamburger" />
 
@@ -113,8 +113,8 @@
             android:padding="10dp">
 
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_gravity="center"
                 android:src="@drawable/box_truck" />
             <TextView
@@ -139,7 +139,7 @@
         android:orientation="horizontal"
         android:weightSum="3"
         android:layout_below="@+id/firstContainer"
-        android:background="#ABCEDD"
+        android:background="#82C7FD"
         >
         <LinearLayout
             android:layout_width="wrap_content"
@@ -149,8 +149,8 @@
             android:orientation="vertical"
             >
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:src="@drawable/start_up"
                 android:layout_gravity="center"
                 />
@@ -174,8 +174,8 @@
             android:orientation="vertical"
             >
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:src="@drawable/travel"
                 android:layout_gravity="center"
                 />
@@ -199,8 +199,8 @@
             android:orientation="vertical"
             >
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:src="@drawable/bus"
                 android:layout_gravity="center"
                 />
@@ -228,7 +228,7 @@
         android:orientation="horizontal"
         android:weightSum="3"
         android:layout_below="@+id/secoundContainer"
-        android:background="#ABCEDD"
+        android:background="#82C7FD"
         >
         <LinearLayout
             android:layout_width="wrap_content"
@@ -238,8 +238,8 @@
             android:padding="10dp"
             >
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:src="@drawable/bus"
                 android:layout_gravity="center"
                 />
@@ -263,8 +263,8 @@
             android:padding="10dp"
             >
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:src="@drawable/bus"
                 android:layout_gravity="center"
                 />
@@ -288,8 +288,8 @@
             android:padding="10dp"
             >
             <ImageView
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:src="@drawable/bus"
                 android:layout_gravity="center"
                 />
